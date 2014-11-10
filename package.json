@@ -1,6 +1,6 @@
 {
   "name": "ycnews",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Hacker News client",
   "main": "server.js",
   "scripts": {
@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/g13n/ycnews",
   "devDependencies": {
-    "azure": "^0.10.1",
     "gulp": "^3.8.10",
     "gulp-nodemon": "^1.0.4",
     "gulp-react": "^2.0.0"
